@@ -16,10 +16,15 @@ To install the application on your system, please follow the below steps:
 The application includes the following features:
 
 -Beautiful Slider
+
 -list of cards
+
 -single card 
+
 -categories
+
 -contact 
+
 and more 
 -
 ## Technologies Used
